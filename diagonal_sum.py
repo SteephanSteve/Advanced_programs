@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-n,m=map(int,raw_input().split(' '))
+n=int(input())
 a=[]
 s=0
 for i in range(m):
